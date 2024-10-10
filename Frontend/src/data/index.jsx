@@ -13,9 +13,9 @@ const employeesData = [
     {
       id: 2,
       firstName: 'Swapnil Rathod',
-      email: 'swapnil112@example.com',
+      email: 'swapnil11@example.com',
       mobile: 9021208032,
-      designation: 'sales',
+      designation: 'Sales',
       gender: 'Male',
       course: 'MCA',
       jointdate:'2024-10-10',
